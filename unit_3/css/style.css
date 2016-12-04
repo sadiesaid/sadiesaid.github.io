@@ -15,7 +15,6 @@ header{
 	text-align: center;
 }
 
-
 a {
 	color: inherit;
 	text-decoration: none;
@@ -23,7 +22,6 @@ a {
 
 nav a{
 	color: #808A99;
-
 }
 
 body {
@@ -31,7 +29,6 @@ body {
 	font-size: 14px;
 	color: white;
 	background-color: #0A332D
-	padding-right: 50px
 }
 
 #slogan {
