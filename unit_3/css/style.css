@@ -31,6 +31,10 @@ body {
 	background-color: #0A332D
 }
 
+main{
+	padding-left: 50px;
+}
+
 #slogan {
 	font-style: italic;
 
