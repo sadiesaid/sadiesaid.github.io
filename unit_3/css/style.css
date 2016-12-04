@@ -40,4 +40,13 @@ main{
 
 }
 
+img {
+	width: 50%
+	height: auto;
+}
+
+footer {
+	padding-top: 50px;
+	text-align: center;
+}
 
