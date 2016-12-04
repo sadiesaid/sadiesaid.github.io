@@ -4,11 +4,19 @@
 }
 
 h1{
+	margin-top: 150px;
 	font-family: "Century Gothic";
 	text-transform: uppercase;
 	font-weight: 500
 	color: #ffffff;
+
+header{
 	text-align: center;
+}
+
+main {
+	padding-right: 50px
+}
 
 }
 body {
