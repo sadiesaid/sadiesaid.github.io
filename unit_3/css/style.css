@@ -15,9 +15,6 @@ header{
 	text-align: center;
 }
 
-main {
-	padding-right: 50px
-}
 
 a {
 	color: inherit;
@@ -34,10 +31,15 @@ body {
 	font-size: 14px;
 	color: white;
 	background-color: #0A332D
+	padding-right: 50px
 }
 
 #slogan {
 	font-style: italic;
 
+}
+
+img {
+	background-size: 100%
 }
 
