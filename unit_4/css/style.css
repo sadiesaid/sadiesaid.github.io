@@ -43,7 +43,7 @@ footer {
 	padding-bottom: 50px;
 }
 #splash {
-	background:url (images/cover_image.jpg);
+	background:url(...images/cover_image.png);
 	background-size:cover;
 	background-repeat:no-repeat;
 	height:90vh;
