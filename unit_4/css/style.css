@@ -6,7 +6,7 @@
 }
 h1{
 	/* margin-top: 150px; */
-	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	text-transform: uppercase;
 	font-weight: 500;
 	margin-bottom: .5em;
@@ -25,7 +25,7 @@ nav a{
 	padding: 1em;
 }
 body {
-	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	font-size: 16px;
 	color: white;
 	background-color: #0A332D;
