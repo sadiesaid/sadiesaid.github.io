@@ -6,7 +6,7 @@
 
 h1{
 	/* margin-top: 150px; */
-	font-family: "Century Gothic";
+	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
 	text-transform: uppercase;
 	font-weight: 500;
 	margin-bottom: .5em;
@@ -29,7 +29,7 @@ nav a{
 }
 
 body {
-	font-family: Helvetica, Arial, san-serif;
+	font-family: Helvetica, Arial, sans-serif;
 	font-size: 16px;
 	color: white;
 	background-color: #0A332D;
