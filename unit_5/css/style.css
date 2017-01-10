@@ -20,3 +20,15 @@ section id="story", section id="work", section id="do" {
     border: 1px black solid;
     padding: 20px;
 }
+
+main {
+	background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
