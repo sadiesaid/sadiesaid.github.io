@@ -16,7 +16,7 @@ section id="story", section id="work", section id="do" {
     padding: 20px;
 }
 
-.clearfix: after{
+.clearfix: after {
     visibility:hidden;
     height: 0;
     font-size: 0;
