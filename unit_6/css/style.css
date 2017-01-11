@@ -23,6 +23,7 @@ div {
     padding: 20px;
     width: 300px;
     display: inline-block;
+    margin: 40px;
 }
 
 .clearfix:after {
@@ -33,9 +34,6 @@ div {
     clear: both;
 }
 
-#id {
-    background-color: black
-}
 
 footer {
 	background-color: #FF957E;
