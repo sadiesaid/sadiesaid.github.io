@@ -17,12 +17,12 @@ section id="story", section id="work", section id="do" {
 }
 
 .clearfix: after{
-	visibility:hidden;
-	height: 0;
-	font-size: 0;
-	content: " ";
-	display: block;
-	clear: both;
+    visibility:hidden;
+    height: 0;
+    font-size: 0;
+    content: " ";
+    display: block;
+    clear: both;
 }
 
 div {
