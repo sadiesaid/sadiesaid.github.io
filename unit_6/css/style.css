@@ -16,9 +16,11 @@ section id="story" {
     padding: 20px;
 }
 
-
 div {
 	float: left;
+    background-color: violet;
+    border: 1px black solid;
+    padding: 20px;
 }
 
 main {
