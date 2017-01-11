@@ -10,20 +10,12 @@ nav {
     padding: 20px;
 }
 
-section id="story", section id="work", section id="do" {
+section id="story" {
 	background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;
 }
 
-.clearfix: after {
-    visibility:hidden;
-    height: 0;
-    font-size: 0;
-    content: " ";
-    display: block;
-    clear: both;
-}
 
 div {
 	float: left;
@@ -39,4 +31,5 @@ footer {
 	background-color: #FF957E;
     border: 1px black solid;
     padding: 20px;
+    clear: both;
 }
