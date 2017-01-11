@@ -25,14 +25,20 @@ div {
     display: inline-block;
 }
 
-main {
-	background-color: #E89C6C;
-    border: 1px black solid;
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content:" ";
+    clear: both;
+}
+
+section {
+	background-color: black;
 }
 
 footer {
 	background-color: #FF957E;
     border: 1px black solid;
     padding: 20px;
-    clear: both;
 }
