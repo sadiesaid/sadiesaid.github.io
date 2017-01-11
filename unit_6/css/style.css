@@ -21,6 +21,8 @@ div {
     background-color: #FFE2B8;
     border: 1px black solid;
     padding: 20px;
+    width: 200px;
+    display: inline-block;
 }
 
 main {
