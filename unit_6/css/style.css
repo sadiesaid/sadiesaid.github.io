@@ -23,7 +23,7 @@ div {
     padding: 20px;
     width: 300px;
     display: inline-block;
-    margin: 40px;
+    margin-left: 20px;
 }
 
 .clearfix:after {
