@@ -13,7 +13,7 @@ body {
 }
 
 header {
-	padding: 0 100px;
+	padding: 0 150px;
 }
 
 nav {
@@ -24,7 +24,7 @@ nav a:link {
 	font-family: 'Open Sans', sans-serif;
 	color: #fff;
 	text-transform: uppercase;
-	margin: 0 3em;
+	margin: 1.5em 3em 0 3em;
 	font-size: .8em;
 	text-align: center;
 	letter-spacing: 2px;
@@ -49,15 +49,15 @@ nav a:active {
 main {
 	background-color: #fffff2;
 	color: #004c45;
-	padding: 50px 0;
+	padding: 3.125em 0;
 }
 
 section {
-	padding: 50px 0;
+	padding: 3.125em 0;
 }
 
 footer {
-	padding: 50px 0;
+	padding: 3.125em 0;
 	text-align: center;
 	background-color:#004c45;
 	color: #fff;
@@ -68,8 +68,8 @@ h1 {
 	font-weight: normal;
 	font-size: 4em;
 	text-align: left;
-	padding: 50px 0 20px 0;
-	margin: 200px 0 0;
+	padding: 3.125em 0 1.25em 0;
+	margin: 10em 0 0;
 	color: #fff;
 }
 
