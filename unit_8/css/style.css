@@ -17,7 +17,7 @@ header {
 }
 
 nav {
-	text-align: right;
+	text-align: center;
 }
 
 nav a:link {
@@ -37,7 +37,7 @@ nav a:visited {
 }
 
 nav a:hover {
-	border-bottom: 1px solid #fff;
+	border-bottom: 2px solid #fff;
 
 }
 
@@ -68,12 +68,14 @@ h1 {
 	padding: 50px 0;
 	margin: 200px 0 0;
 	color: #fff;
+	text-transform: uppercase;
 }
 
 h2, h3 {
 	font-family: 'Montserrat', sans-serif;
 	text-align: center;
 	text-transform: uppercase;
+	color: #004c45;
 }
 
 h2 {
@@ -84,6 +86,13 @@ h2 {
 h3 {
 	font-size: 1.5em;
 	margin: 1em;
+}
+
+header + h3 {
+	text-align: left;
+	text-transform: none;
+	color: #fff;
+
 }
 
 p {
@@ -101,6 +110,17 @@ img {
 	width: 100%;
 }
 
+.work img{
+	max-width: 400px;
+	display: block;
+	margin:auto;
+}
+
+.do img {
+	max-width: 400px;
+	display: block;
+	margin: auto;
+}
 
 #splash {
 	background:url(../images/cover_image.png) no-repeat center center scroll;
