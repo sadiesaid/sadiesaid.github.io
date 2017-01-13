@@ -132,15 +132,11 @@ img {
 }
 
 .work {
-	width:25%;
-	margin:2em;
+	width:30%;
+	margin:1.3em;
 	padding:2em;
 	float: left;
 	color: #004c45;
-}
-
-.do_one, .do_two {
-	background-color: #FFF1ED;
 }
 
 .do img {
