@@ -49,11 +49,11 @@ nav a:active {
 main {
 	background-color: #fffff2;
 	color: #004c45;
-	padding: 50px 0;
+	padding: 50px auto;
 }
 
 section {
-	padding: 50px 0;
+	padding: 50px auto;
 }
 
 footer {
@@ -86,7 +86,7 @@ h2 {
 }
 
 h3 {
-	font-size: 1.5em;
+	font-size: 1em;
 	margin: 1em;
 }
 
@@ -102,14 +102,17 @@ h4 {
 
 p {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 1em;
-	line-height: 1.6em;
+	font-size: .8em;
+	line-height: 1.2em;
 }
 
 a {
 	text-decoration: none;
 	color: #004c45;
 }
+
+footer a {
+	color: #fffff2;
 
 img {
 	width: 100%;
