@@ -128,11 +128,15 @@ img {
 }
 
 .do_one {
-	margin-top: 50px;
+	margin-top: 3.125em;
+	margin-right:5em;
+	margin-left:5em;
 }
 
 .do_two {
-	margin-bottom: 50px;
+	margin-bottom: 3.125em;
+	margin-right:5em;
+	margin-left:5em;
 }
 
 .work img{
@@ -156,9 +160,8 @@ img {
 }
 
 .do {
-	width:25%;
-	margin:2em;
-	padding:2em;
+	width:33%;
+	padding:1em;
 	float: left;
 	color: #004c45;
 }
