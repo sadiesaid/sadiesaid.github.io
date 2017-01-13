@@ -59,8 +59,8 @@ section {
 footer {
 	padding: 50px 0;
 	text-align: center;
-	color: #fff;
 	background-color:#004c45;
+	color: #fff;
 }
 
 h1 {
@@ -104,7 +104,6 @@ p {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 1em;
 	line-height: 1.6em;
-	color: #004c45;
 }
 
 a {
@@ -136,6 +135,7 @@ img {
 	margin:2em;
 	padding:2em;
 	float: left;
+	color: #004c45;
 }
 
 .do_one, .do_two {
@@ -153,6 +153,7 @@ img {
 	margin:2em;
 	padding:2em;
 	float: left;
+	color: #004c45;
 }
 
 #splash {
