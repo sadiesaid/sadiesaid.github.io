@@ -131,22 +131,22 @@ img {
 
 .work {
 	width:25%;
-	margin:2em;
-	padding:2em;
+	margin:2em auto;
+	padding:2em auto;
 	float: left;
 }
 
 
 .do img {
-	max-width: 400px;
+	max-width: 300px;
 	display: block;
 	margin: auto;
 }
 
 .do {
-	width:400px;
-	margin:50px auto;
-	padding:20px 0 40px;
+	width:25px;
+	margin:2em auto;
+	padding:2em auto;
 	float: left;
 }
 
