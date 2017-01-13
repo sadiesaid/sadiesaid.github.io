@@ -127,18 +127,13 @@ img {
 	clear:both;
 }
 
-#wrapper {
-	background:url(../images/section_background.png) no-repeat center center scroll;
-	background-size: cover;
-}
-
-.do_one {
+#do_one {
 	margin-top: 3.125em;
 	margin-right:5em;
 	margin-left:5em;
 }
 
-.do_two {
+#do_two {
 	margin-bottom: 3.125em;
 	margin-right:5em;
 	margin-left:5em;
