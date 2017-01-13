@@ -127,11 +127,8 @@ img {
 	clear:both;
 }
 
-.wrapper {
+#wrapper {
 	background:url(../images/section_background.png) no-repeat center center scroll;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
 	background-size: cover;
 }
 
