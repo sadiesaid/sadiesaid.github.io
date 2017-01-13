@@ -13,7 +13,7 @@ body {
 }
 
 header {
-	padding: 0 200px;
+	padding: 0 100px;
 }
 
 nav {
@@ -109,7 +109,7 @@ p {
 
 a {
 	text-decoration: none;
-	color: #004c45;
+	color: #fffff2;
 }
 
 
@@ -124,6 +124,14 @@ img {
 	content:" ";
 	display: block;
 	clear:both;
+}
+
+.do_one {
+	padding-top: 50px;
+}
+
+.do_two {
+	padding-bottom: 50px;
 }
 
 .work img{
