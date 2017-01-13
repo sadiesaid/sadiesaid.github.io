@@ -68,14 +68,13 @@ h1 {
 	padding: 50px 0;
 	margin: 200px 0 0;
 	color: #fff;
-	text-transform: uppercase;
 }
 
 h2, h3 {
 	font-family: 'Montserrat', sans-serif;
 	text-align: center;
-	text-transform: uppercase;
 	color: #004c45;
+	text-transform: uppercase;
 }
 
 h2 {
@@ -88,9 +87,12 @@ h3 {
 	margin: 1em;
 }
 
-header + h3 {
+h4 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: normal;
+	font-size: 1.5em;
 	text-align: left;
-	text-transform: none;
+	padding: 50px 0;
 	color: #fff;
 
 }
