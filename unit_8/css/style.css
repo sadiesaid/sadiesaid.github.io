@@ -110,6 +110,7 @@ p {
 a {
 	text-decoration: none;
 	color: #fffff2;
+	display: inline-block;
 }
 
 
@@ -127,11 +128,11 @@ img {
 }
 
 .do_one {
-	padding-top: 50px;
+	margin-top: 50px;
 }
 
 .do_two {
-	padding-bottom: 50px;
+	margin-bottom: 50px;
 }
 
 .work img{
