@@ -124,6 +124,18 @@ img {
 	margin: auto;
 }
 
+.work {
+	width:500px;
+	margin:50px auto;
+	padding:20px 0 40px;
+}
+
+.do {
+	width:500px;
+	margin:50px auto;
+	padding:20px 0 40px;
+}
+
 #splash {
 	background:url(../images/cover_image.png) no-repeat center center scroll;
 	-webkit-background-size: cover;
