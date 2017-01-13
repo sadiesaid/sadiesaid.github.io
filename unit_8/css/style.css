@@ -68,8 +68,7 @@ h1 {
 	font-weight: normal;
 	font-size: 4em;
 	text-align: left;
-	padding: 3.125em 0 1.25em 0;
-	margin: 10em 0 0;
+	padding-top: 3em;
 	color: #fff;
 }
 
@@ -95,8 +94,9 @@ h4 {
 	font-weight: normal;
 	font-size: 1.5em;
 	text-align: left;
-	padding: 20px 0;
+	padding: 1.25em 0;
 	color: #fff;
+	margin-right: 25em;
 
 }
 
