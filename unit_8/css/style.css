@@ -280,7 +280,7 @@ img {
 
 	h2 {
 		font-size: .8em;
-		margin-right: none;
+		margin-right: 0;
 	}
 
 	#splash {
@@ -303,7 +303,6 @@ img {
 
 	h2{
 		text-align:center;
-		margin: auto;
 	}
 
 	nav a:link {
