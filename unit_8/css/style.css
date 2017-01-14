@@ -13,7 +13,7 @@ body {
 }
 
 header {
-	padding: 0 150px;
+	padding: 0 9.375em;
 }
 
 nav {
@@ -106,7 +106,7 @@ a {
 
 
 img {
-	width: 100%;
+	width: 85%;
 }
 
 .clearfix:after{
@@ -131,7 +131,7 @@ img {
 }
 
 .work img{
-	max-width:300px;
+	max-width:27.7777%;
 	display: block;
 	margin:auto;
 }
@@ -145,7 +145,7 @@ img {
 }
 
 .do img {
-	max-width: 300px;
+	max-width: 27.7777%;
 	display: block;
 	margin: auto;
 }
@@ -164,5 +164,5 @@ img {
 	-o-background-size: cover;
 	background-size: cover;
 	height:750px;
-	padding:20px 0;
+	padding:1.25em 0;
 }
