@@ -167,6 +167,11 @@ img {
 	padding:1.25em 0;
 }
 
+.wrapper{
+	width: 90%;
+    margin: auto;
+}
+
 @media only screen and (max-width: 1267){
 	.work{
 		margin: 1em;
