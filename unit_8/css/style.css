@@ -74,7 +74,7 @@ h1 {
 
 h2 {
 	font-family: 'Open Sans', sans-serif;
-	font-weight: 500;
+	font-weight: 300;
 	font-size: 2em;
 	text-align: left;
 	padding: 1.25em 0;
@@ -93,8 +93,8 @@ h3 {
 
 p {
 	font-family: 'Open Sans', sans-serif;
-	font-size: .8em;
-	line-height: 1.2em;
+	font-size: 1em;
+	line-height: 1.6em;
 	text-align: center;
 }
 
