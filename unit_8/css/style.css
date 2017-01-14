@@ -166,3 +166,9 @@ img {
 	height:750px;
 	padding:1.25em 0;
 }
+
+@media only screen and (max-width: 1267){
+	.work{
+		width: 29%;
+	}
+}
