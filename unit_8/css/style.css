@@ -135,7 +135,7 @@ img {
 }
 
 .work {
-	width: 27.5%;
+	width: 27%;
     margin: 2em;
     float: left;
     color: #004c45;
@@ -172,7 +172,7 @@ img {
 
 @media only screen and (max-width: 1275){
 	main {
-	padding-right: 3em;
-    padding-left: 3em;
+	padding-right: 1em;
+    padding-left: 1em;
 	}
 }
