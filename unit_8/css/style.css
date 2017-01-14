@@ -247,3 +247,13 @@ img {
 		margin: 1.5em;
 	}
 }
+
+@media only screen and (max-width: 618px){
+	.work {
+		float:none;
+	}
+
+	.do{
+		float:none;
+	}
+}
