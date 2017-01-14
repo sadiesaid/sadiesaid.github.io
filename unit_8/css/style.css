@@ -54,9 +54,6 @@ main {
     padding-left: 5em;
 }
 
-section {
-	padding: 3.125em 0;
-}
 
 footer {
 	padding: 3.125em 0;
@@ -168,7 +165,7 @@ img {
 }
 
 .wrapper{
-	width: 90%;
+	width: 100%;
     margin: auto;
 }
 
