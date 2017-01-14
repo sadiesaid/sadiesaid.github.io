@@ -294,3 +294,26 @@ img {
 	}
 
 }
+
+@media only screen and (max-width: 320px){
+	h1 {
+		text-align:center;
+		font-size: 1.2em;
+	}
+
+	h2{
+		text-align:center;
+	}
+
+	nav a:link {
+		margin: 1em 1.5em 0 1.5em;
+		font-size: 1em;
+		text-align: center;
+		letter-spacing: 0.125em;
+		padding-bottom: 0.3125em;
+	}
+
+	#splash {
+		height: 400px;
+	}
+}
