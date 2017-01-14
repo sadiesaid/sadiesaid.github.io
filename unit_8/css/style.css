@@ -251,11 +251,13 @@ img {
 	.work {
 		float:none;
 		margin: auto;
+		width: 100%;
 	}
 
 	.do{
 		float:none;
 		margin: auto;
+		width: 100%;
 	}
 
 	h1 {
@@ -269,7 +271,9 @@ img {
 	}
 
 	#splash {
+		background-image: none;
 		background-color: #004c45;
+		height: 300px;
 	}
 
 	header {
