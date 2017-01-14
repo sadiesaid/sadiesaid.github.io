@@ -177,4 +177,16 @@ img {
 	}
 }
 
-@media only screen (max-width: 1171px)
+@media only screen and (max-width: 1114px){
+	h1 {
+
+	font-size: 3em;
+	padding-top: 2.5em;
+	}
+
+	h2 {
+	font-size: 1.4em;
+	padding: 1em 0;
+	margin-right: 6em;
+	}
+}
