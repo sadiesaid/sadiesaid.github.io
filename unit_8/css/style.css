@@ -74,16 +74,16 @@ h1 {
 
 h2 {
 	font-family: 'Open Sans', sans-serif;
-	font-weight: normal;
+	font-weight: 500;
 	font-size: 2em;
 	text-align: left;
 	padding: 1.25em 0;
 	color: #fff;
-	margin-right: 23.75em;
+	margin-right: 10em;
 }
 
 h3 {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Montserrat', sans-serif;
 	text-align: center;
 	color: #004c45;
 	text-transform: uppercase;
