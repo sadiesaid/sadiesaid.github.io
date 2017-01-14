@@ -165,8 +165,9 @@ img {
 }
 
 .wrapper{
-	width: 100%;
-    margin: auto;
+	width: 85%;
+    margin-right: auto;
+    margin-left:auto;
 }
 
 @media only screen and (max-width: 1275){
