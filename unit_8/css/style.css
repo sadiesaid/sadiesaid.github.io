@@ -222,10 +222,13 @@ img {
 }
 
 @media only screen and (max-width: 928px){
-	h1 {
+	nav a:link {
+	margin: 1em 2em 0 2em;
+	}
 
+	h1 {
 	font-size: 2em;
-	padding-top: 2em;
+	padding-top: 2.5em;
 	}
 
 	h2 {
