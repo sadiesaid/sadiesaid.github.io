@@ -24,7 +24,7 @@ nav a:link {
 	font-family: 'Open Sans', sans-serif;
 	color: #fff;
 	text-transform: uppercase;
-	margin: 1.5em 3em 0 3em;
+	margin: 1em 3em 0 3em;
 	font-size: 1.5em;
 	text-align: center;
 	letter-spacing: 0.125em;
@@ -75,7 +75,7 @@ h1 {
 h2 {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: normal;
-	font-size: 1.5em;
+	font-size: 2em;
 	text-align: left;
 	padding: 1.25em 0;
 	color: #fff;
