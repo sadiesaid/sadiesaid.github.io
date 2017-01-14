@@ -49,7 +49,9 @@ nav a:active {
 main {
 	background-color: #fffff2;
 	color: #004c45;
-	padding: 3.125em 0;
+    padding: 3.125em 0;
+    padding-right: 5em;
+    padding-left: 5em;
 }
 
 section {
@@ -106,7 +108,7 @@ a {
 
 
 img {
-	width: 85%;
+	width: 100%;
 }
 
 .clearfix:after{
@@ -131,17 +133,15 @@ img {
 }
 
 .work img{
-	max-width:100%;
 	display: block;
 	margin:auto;
 }
 
 .work {
-	width:30%;
-	margin:1.3em;
-	padding:2em;
-	float: left;
-	color: #004c45;
+	width: 27.33%;
+    margin: 2em;
+    float: left;
+    color: #004c45;
 }
 
 .do img {
