@@ -131,7 +131,7 @@ img {
 }
 
 .work img{
-	max-width:66.6666%;
+	max-width:100%;
 	display: block;
 	margin:auto;
 }
@@ -145,7 +145,7 @@ img {
 }
 
 .do img {
-	max-width: 66.6666%;
+	max-width: 100%;
 	display: block;
 	margin: auto;
 }
