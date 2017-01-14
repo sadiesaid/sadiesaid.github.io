@@ -184,7 +184,6 @@ img {
 	}
 
 	h1 {
-
 	font-size: 3em;
 	padding-top: 2.5em;
 	}
@@ -251,9 +250,30 @@ img {
 @media only screen and (max-width: 618px){
 	.work {
 		float:none;
+		margin: auto;
 	}
 
 	.do{
 		float:none;
+		margin: auto;
 	}
+
+	h1 {
+	font-size: 1.5em;
+	padding-top: 2.5em;
+	}
+
+	h2 {
+		font-size: .8em;
+		margin-right: none;
+	}
+
+	#splash {
+		background-color: #004c45;
+	}
+
+	header {
+	padding: 0 3.125em;
+	}
+
 }
