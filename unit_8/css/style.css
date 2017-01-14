@@ -199,3 +199,14 @@ img {
 		height:550px;
 	}
 }
+
+@media only screen and (max-width: 1060px){
+	main{
+		padding-right:.8em;
+		padding-left: .8em;
+	}
+
+	.work {
+		width:25%;
+	}
+}
