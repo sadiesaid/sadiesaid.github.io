@@ -241,3 +241,9 @@ img {
 	height:450px;
 	}
 }
+
+@media only screen and (max-width: 811px){
+	.work{
+		margin: 1.5em;
+	}
+}
